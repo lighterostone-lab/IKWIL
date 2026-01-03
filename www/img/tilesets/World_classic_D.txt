@@ -1,0 +1,152 @@
+﻿Transparent|透明
+Paper texture|紙のテクスチャ
+Decorative parts|装飾用パーツ（角）
+Decorative parts|装飾用パーツ（角）
+Decorative parts|装飾用パーツ（角）
+Decorative parts|装飾用パーツ（角）
+Decorative parts|装飾用パーツ（角）
+Decorative parts|装飾用パーツ（角）
+Paper texture|紙のテクスチャ
+Paper texture|紙のテクスチャ
+Decorative parts|装飾用パーツ（角）
+Decorative parts|装飾用パーツ（角）
+Decorative parts|装飾用パーツ（角）
+Decorative parts|装飾用パーツ（角）
+Decorative parts|装飾用パーツ（角）
+Decorative parts|装飾用パーツ（角）
+Decorative parts|装飾用パーツ（縦）
+Decorative parts|装飾用パーツ（縦）
+Decorative parts|装飾用パーツ（縦）
+Decorative parts|装飾用パーツ（縦）
+Decorative parts|装飾用パーツ（角）
+Decorative parts|装飾用パーツ（角）
+Decorative parts|装飾用パーツ（角）
+Decorative parts|装飾用パーツ（角）
+Decorative parts|装飾用パーツ（縦）
+Decorative parts|装飾用パーツ（縦）
+Decorative parts|装飾用パーツ（縦）
+Decorative parts|装飾用パーツ（縦）
+Decorative parts|装飾用パーツ（角）
+Decorative parts|装飾用パーツ（角）
+Decorative parts|装飾用パーツ（角）
+Decorative parts|装飾用パーツ（角）
+Decorative parts|装飾用パーツ（横）
+Decorative parts|装飾用パーツ（横）
+Decorative parts|装飾用パーツ（横）
+Decorative parts|装飾用パーツ（横）
+Gradation|グラデーション（角）
+Gradation|グラデーション（角）
+Gradation|グラデーション（横）
+Gradation|グラデーション（縦）
+Decorative parts|装飾用パーツ（横）
+Decorative parts|装飾用パーツ（横）
+Decorative parts|装飾用パーツ（横）
+Decorative parts|装飾用パーツ（横）
+Gradation|グラデーション（角）
+Gradation|グラデーション（角）
+Gradation|グラデーション（横）
+Gradation|グラデーション（縦）
+Gradation|グラデーション（角）
+Gradation|グラデーション（角）
+Gradation|グラデーション（横）
+Gradation|グラデーション（縦）
+Gradation|グラデーション（角）
+Gradation|グラデーション（角）
+Gradation|グラデーション（横）
+Gradation|グラデーション（縦）
+Gradation|グラデーション（角）
+Gradation|グラデーション（角）
+Gradation|グラデーション（横）
+Gradation|グラデーション（縦）
+Gradation|グラデーション（角）
+Gradation|グラデーション（角）
+Gradation|グラデーション（横）
+Gradation|グラデーション（縦）
+Gradation|グラデーション（角）
+Gradation|グラデーション（角）
+Gradation|グラデーション（横）
+Gradation|グラデーション（縦）
+Dark color|塗りつぶし（ベタ）
+Paper texture|塗りつぶし（テクスチャ）
+Bright color|塗りつぶし（ベタ）
+Paper texture|塗りつぶし（テクスチャ）
+Gradation|グラデーション（角）
+Gradation|グラデーション（角）
+Gradation|グラデーション（横）
+Gradation|グラデーション（縦）
+North|方位（北）
+South|方位（南）
+East|方位（東）
+West|方位（西）
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Transparent|透明
+Transparent|透明
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Transparent|透明
+Transparent|透明
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Compass|コンパス
+Transparent|透明
+Transparent|透明
